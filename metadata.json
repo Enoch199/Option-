@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of PocketAI Analyst",
+  "description": "Un tableau de bord de trading simulant l'analyse de marché en temps réel pour Pocket Option, alimenté par l'IA Gemini pour la détection de tendances et les signaux d'achat/vente.",
+  "requestFramePermissions": []
+}
